@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const uri = "mongodb+srv://User0:dAtAOIl4710@admin-crud.swybe.mongodb.net/?retryWrites=true&w=majority"
+const uri = //Contact admin for the mongoDB url or paste your own link. Make sure to use MongoDB Atlas
 
 async function connect() {
     try {
